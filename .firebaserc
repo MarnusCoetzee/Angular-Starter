@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "online-shop-435be": {
+      "hosting": {
+        "angularstarter": [
+          "online-shop-435be"
+        ]
+      }
+    }
+  }
+}
